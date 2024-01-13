@@ -13,6 +13,7 @@
     "axios": "^1.6.5",
     "react": "^18.2.0",
     "react-chat-engine-advanced": "^0.1.28",
+    "react-chat-engine-pretty": "^0.1.8",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
