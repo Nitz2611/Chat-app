@@ -1,6 +1,10 @@
+// POST request to authenticate a user
 POST http://localhost:3001/authenticate
+
+// Set the content type to JSON
 Content-Type: application/json
 
-
-   { "username": "rahul"}
-    
+// Request body containing the username
+{
+    "username": "rahul"
+}
