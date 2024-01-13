@@ -1,8 +1,8 @@
-const express = require("express"); // importing express module
-const cors = require("cors"); // importing cors module
-const { default: axios } = require("axios"); // importing axios module
+const express = require("express"); 
+const cors = require("cors"); 
+const { default: axios } = require("axios"); 
 
-// creating an instance of express
+
 const app = express();
 
 // using middleware to parse json request bodies
