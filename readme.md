@@ -16,3 +16,12 @@ Chat App is a real-time messaging application built using ChatEngine.io, styled 
 - **Node.js:** JavaScript runtime for server-side development.
 - **Express:** Backend framework for handling API requests.
 - **react-chat-engine-pretty:** A library for styling ChatEngine components.
+
+## Screenshot
+- **Login Page** 
+
+![Login details](/mainPage.png "Login page")
+
+- **Chat Page**
+
+![Chat Page](/chatPage.png "Chat page")
