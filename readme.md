@@ -4,8 +4,8 @@ Chat App is a real-time messaging application built using ChatEngine.io, styled 
 
 ## Features
 
-- **Real-time Messaging:** Engage in real-time conversations with other users.
-- **User Authentication:** Securely create and manage user accounts.
+- **Real-time Messaging:** Engage in real-time conversations with other users.🚀
+- **User Authentication:** Securely create and manage user accounts.🔐
 - **Chat Room Creation:** Users can create and join different chat rooms.
 - **Message History:** View chat history and previous messages.
 
